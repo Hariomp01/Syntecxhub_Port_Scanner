@@ -107,7 +107,7 @@ No external libraries needed — only Python standard library.
 
 **Hariom Patidar**  
 Cybersecurity Intern @ Syntecxhub  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](#) | [https://github.com/Hariomp01](#)
 
 ---
 
