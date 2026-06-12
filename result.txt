@@ -1,11 +1,23 @@
-==================================================
-       PORT SCAN RESULTS
-==================================================
-Target IP   : 127.0.0.1
-Scan Time   : 2026-06-12 17:03:18.811967
-Ports Checked: 65535
-Open Ports  : 1
---------------------------------------------------
+=======================================================
+          PORT SCAN LOG - FULL REPORT
+=======================================================
+  Target IP     : 8.8.8.8
+  Scan Date     : 12 June 2026
+  Scan Time     : 17:33:28
+  Total Ports   : 65535
+  Open          : 3
+  Closed        : 65532
+  Timed Out     : 0
+=======================================================
 
-OPEN PORTS:
-  Port 54262  - Unknown
+--- OPEN PORTS ---
+  Port 53      [DNS]
+  Port 443     [HTTPS]
+  Port 853     [Unknown]
+
+--- TIMED OUT PORTS (possible firewall) ---
+  None.
+
+--- CLOSED PORTS ---
+  65532 port(s) were closed (connection refused).
+  First few: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]...
