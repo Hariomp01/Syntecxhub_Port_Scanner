@@ -37,6 +37,7 @@ A multithreaded TCP port scanner that connects to a target host and checks which
 
 ### How to run
 
+```
 bash
 
 1.  git clone https://github.com/Hariomp01/Syntecxhub_Port_Scanner
@@ -44,6 +45,8 @@ bash
 2.  cd project1_port_scanner
 
 3.  python port_scanner.py
+
+
 ```
 
 No external libraries needed — only Python standard library.
