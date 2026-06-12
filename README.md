@@ -39,7 +39,7 @@ A multithreaded TCP port scanner that connects to a target host and checks which
 
 bash
 
-1.  clone https://github.com/Hariomp01/Syntecxhub_Port_Scanner
+1.  git clone https://github.com/Hariomp01/Syntecxhub_Port_Scanner
 
 2.  cd project1_port_scanner
 
